@@ -1,8 +1,7 @@
-const ContactPage = () => (
-    <div>
-        <h1>Our Contact Page!</h1>
-        <p>Do not contact us</p>
-    </div>
-);
+const ContactPage = () => {
+    return (
+        <h1>Contact Page - Contact us to learn about how we can help make your travel dreams a reality!</h1>
+    )
+};
 
 export default ContactPage;

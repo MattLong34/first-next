@@ -17,25 +17,15 @@ __webpack_require__.r(__webpack_exports__);
 
 var _jsxFileName = "C:\\Users\\mlong\\OneDrive - PFL\\Documents\\Dev\\Udemy Modern React Bootcamp\\first-next\\pages\\contact.js";
 
-const ContactPage = () => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
-  children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("h1", {
-    children: "Our Contact Page!"
+const ContactPage = () => {
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("h1", {
+    children: "Contact Page - Contact us to learn about how we can help make your travel dreams a reality!"
   }, void 0, false, {
     fileName: _jsxFileName,
     lineNumber: 3,
     columnNumber: 9
-  }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("p", {
-    children: "Do not contact us"
-  }, void 0, false, {
-    fileName: _jsxFileName,
-    lineNumber: 4,
-    columnNumber: 9
-  }, undefined)]
-}, void 0, true, {
-  fileName: _jsxFileName,
-  lineNumber: 2,
-  columnNumber: 5
-}, undefined);
+  }, undefined);
+};
 
 /* harmony default export */ __webpack_exports__["default"] = (ContactPage);
 
@@ -63,4 +53,4 @@ var __webpack_exports__ = (__webpack_exec__("./pages/contact.js"));
 module.exports = __webpack_exports__;
 
 })();
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9jLy4vcGFnZXMvY29udGFjdC5qcyIsIndlYnBhY2s6Ly9jL2V4dGVybmFsIFwicmVhY3QvanN4LWRldi1ydW50aW1lXCIiXSwibmFtZXMiOlsiQ29udGFjdFBhZ2UiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFBQSxNQUFNQSxXQUFXLEdBQUcsbUJBQ2hCO0FBQUEsMEJBQ0k7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsZUFESixlQUVJO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLGVBRko7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLGFBREo7O0FBT0EsK0RBQWVBLFdBQWYsRTs7Ozs7Ozs7Ozs7QUNQQSxtRCIsImZpbGUiOiJwYWdlcy9jb250YWN0LmpzIiwic291cmNlc0NvbnRlbnQiOlsiY29uc3QgQ29udGFjdFBhZ2UgPSAoKSA9PiAoXHJcbiAgICA8ZGl2PlxyXG4gICAgICAgIDxoMT5PdXIgQ29udGFjdCBQYWdlITwvaDE+XHJcbiAgICAgICAgPHA+RG8gbm90IGNvbnRhY3QgdXM8L3A+XHJcbiAgICA8L2Rpdj5cclxuKTtcclxuXHJcbmV4cG9ydCBkZWZhdWx0IENvbnRhY3RQYWdlOyIsIm1vZHVsZS5leHBvcnRzID0gcmVxdWlyZShcInJlYWN0L2pzeC1kZXYtcnVudGltZVwiKTs7Il0sInNvdXJjZVJvb3QiOiIifQ==
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9jLy4vcGFnZXMvY29udGFjdC5qcyIsIndlYnBhY2s6Ly9jL2V4dGVybmFsIFwicmVhY3QvanN4LWRldi1ydW50aW1lXCIiXSwibmFtZXMiOlsiQ29udGFjdFBhZ2UiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFBQSxNQUFNQSxXQUFXLEdBQUcsTUFBTTtBQUN0QixzQkFDSTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxlQURKO0FBR0gsQ0FKRDs7QUFNQSwrREFBZUEsV0FBZixFOzs7Ozs7Ozs7OztBQ05BLG1EIiwiZmlsZSI6InBhZ2VzL2NvbnRhY3QuanMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCBDb250YWN0UGFnZSA9ICgpID0+IHtcclxuICAgIHJldHVybiAoXHJcbiAgICAgICAgPGgxPkNvbnRhY3QgUGFnZSAtIENvbnRhY3QgdXMgdG8gbGVhcm4gYWJvdXQgaG93IHdlIGNhbiBoZWxwIG1ha2UgeW91ciB0cmF2ZWwgZHJlYW1zIGEgcmVhbGl0eSE8L2gxPlxyXG4gICAgKVxyXG59O1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgQ29udGFjdFBhZ2U7IiwibW9kdWxlLmV4cG9ydHMgPSByZXF1aXJlKFwicmVhY3QvanN4LWRldi1ydW50aW1lXCIpOzsiXSwic291cmNlUm9vdCI6IiJ9
