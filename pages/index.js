@@ -1,14 +1,9 @@
-import Link from "next/link"
+import Navbar from "../components/Navbar"
 
 const Index = () => {
     return (
         <div>
-            <Link href="/about">
-                <a>About Expanse Travel</a>
-            </Link>
-            <Link href="/contact">
-                <a>Contact Us</a>
-            </Link>
+            <Navbar />
             <h1>Index Page - Welcome to Expanse Travel!</h1>
         </div>
     )
