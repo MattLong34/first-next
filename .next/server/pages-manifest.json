@@ -3,8 +3,6 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/about": "pages/about.js",
-  "/resources": "pages/resources.js",
   "/sustainability": "pages/sustainability.js",
-  "/contact": "pages/contact.js"
+  "/destinations": "pages/destinations.js"
 }
