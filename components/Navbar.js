@@ -15,6 +15,12 @@ const Navbar = () => {
             <Link href="/about">
                 <button>About Expanse Travel</button>
             </Link>
+            <Link href="/resources">
+                <button>Resources</button>
+            </Link>
+            <Link href="/sustainability">
+                <button>Sustainability</button>
+            </Link>
             <Link href="/contact">
                 <button>Contact Us</button>
             </Link>
